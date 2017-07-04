@@ -1,7 +1,4 @@
 hii
-<<<<<<< HEAD
 am sangeetha.
-=======
-am sangee..
 mere first day haan
->>>>>>> new_feature
+bug fixed
